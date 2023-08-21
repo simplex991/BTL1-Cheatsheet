@@ -63,7 +63,7 @@ List of common ports.
 |message body|containing the message, separated from the header by<br>a line break|
 
 6. ***Text Editor Extraction***
-- Search for "http=" as this will identify any http or https addresses<br>
+- Search for "http" as this will identify any http or https addresses<br>
 being mentioned within the email.
 - Search for anchor HTML tags \<a> which are used to perform hyperlinking.
 - Search for the text fro mthe email body that is a hyperlink, in this example,<br>
