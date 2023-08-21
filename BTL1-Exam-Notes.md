@@ -45,7 +45,7 @@ List of common ports.
 
 4. **Email address anotomy**:
 
-<img src="SmartSelect_20230808_131927_Chrome.jpg" alt="drawing" style="width: 400px; margin-left : 25px;"/><br/>
+<img src="email-anatomy.jpg" alt="drawing" style="width: 400px; margin-left : 25px;"/><br/>
 <p style="margin-left: 25px; font-size: 15px;">
 	In the above example, we can see that the mailbox (also know as the 'localpart')
 	is named <b>"contact"</b> and the domain is <b>securityblue.team</b>.
@@ -68,7 +68,7 @@ being mentioned within the email.
 - Search for anchor HTML tags \<a> which are used to perform hyperlinking.
 - Search for the text fro mthe email body that is a hyperlink, in this example,<br>
 we could search for "you can cancel it".
-![Hyperlink extraction](<Screenshot 2023-08-14 152730.png>)
+![Alt text](<Phising analysis links.png>)
 
 
 ---
@@ -165,7 +165,7 @@ Scalpel configuration file
 ```md
 /etc/scalpel/scalpel.conf
 ```
-![scalpel config file](<Screenshot 2023-08-14 161135.png>)<br>
+![Alt text](<config file.png>)<br>
 <br>
 after configuring scalpel to understand what files we're looking for,<br>
 we can summon the tool using the following command:
