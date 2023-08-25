@@ -258,6 +258,7 @@ C:\Users\$USER$\AppData\Roaming\Microsoft\Windows\Recent
 
 - **Prefetch Files** - 
 	- **PECmd** - This tool can be used to view the prefetch files. `PECmd.exe -f <path/to/file.pf>`
+   	Example: PECmd.exe -f "C:\Users\BTLOTest\Desktop\Windows Investigation One\Prefetch\CMD.EXE-89305D47.pf"
 
 These files can be found at 
 ```md
